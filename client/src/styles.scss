@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+  margin-top: 24px;
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: top;
+  background-size: cover;
+  background-image: url("https://res.cloudinary.com/blue-i/image/upload/v1706841204/ook/ClassPhoto2023_1200.png");
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
