@@ -7,6 +7,7 @@ TO PUBLISH
 ng build --output-path ../docs/
 
 ng deploy --base-href=/shidokan-takuma/
+ng deploy --base-href=https://bluei.github.io/GithubRepoName/shidokan-takuma-client
 
 2) Check the files here
 https://github.com/bluei/shidokan-takuma
